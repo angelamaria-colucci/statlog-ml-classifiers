@@ -4,7 +4,7 @@ Progetto di **Matematica per l'Intelligenza Artificiale**
 Politecnico di Torino · Corso di Laurea in Matematica per l'Ingegneria
 Autrice: **Angelamaria Colucci** (s323606)
 
-> **TL;DR** — Pipeline completa di machine learning sul dataset *Statlog Image Segmentation* (UCI #147): dall'analisi esplorativa alla riduzione di dimensionalità (PCA, FDA/MDA) fino a sei classificatori (LDA, QDA, SVM lineare/RBF/polinomiale, MLP). Il **Multi‑Layer Perceptron** raggiunge **96.3% di accuracy** sul test set, primo tra i modelli confrontati.
+> Pipeline completa di machine learning sul dataset *Statlog Image Segmentation* (UCI #147): dall'analisi esplorativa alla riduzione di dimensionalità (PCA, FDA/MDA) fino a sei classificatori (LDA, QDA, SVM lineare/RBF/polinomiale, MLP). Il **Multi‑Layer Perceptron** raggiunge **96.3% di accuracy** sul test set, primo tra i modelli confrontati.
 
 ---
 
